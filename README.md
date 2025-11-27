@@ -1,5 +1,5 @@
 # MapuchitoNoticiasAPPs
-<div align="center"><img src="[https://navonejuan.com.ar/wp-content/uploads/2025/09/NJ_Tech_Redondo512.png](https://mapuchito.com.ar/Descarga/assets/images/mapuchitonoticias256.ico)" width="150" alt="Logo NJSI"></div>
+<div align="center"><img src="https://mapuchito.com.ar/Descarga/assets/images/mapuchitonoticias256.ico" width="150" alt="Logo Mapuchito Noticias"></div>
 
 ![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-blue?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
