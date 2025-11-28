@@ -44,7 +44,7 @@ La transparencia es fundamental. Hemos sometido nuestros instaladores a análisi
 
 | Android | Windows |
 | :---: | :---: |
-| ![Captura Android](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Android.jpg?text=App+Android) | ![Captura Windows](https://navonejuan.com.ar/wp-content/uploads/2025/11/captura_NJSI_WEB_APP_Win.jpg?text=App+Windows) |
+| ![Captura Android](https://mapuchito.com.ar/Descarga/Captura-Mapuchito-Noticias-App-Apk.jpg?text=App+Android) | ![Captura Windows](https://mapuchito.com.ar/Descarga/Captura-Mapuchito-Noticias-App-Win.jpg?text=App+Windows) |
 *(Imágenes referenciales de la versión 1.0)*
 
 ---
