@@ -68,7 +68,7 @@ Como estas aplicaciones son exclusivas y aún no están listadas en las tiendas 
     * Presiona el botón **"Ejecutar de todas formas"**.
 3.  Sigue los pasos del instalador para crear el acceso directo en tu escritorio.
 
-> **Nota de Seguridad:** Estos avisos aparecen porque la aplicación es nueva y está firmada por un desarrollador independiente, no porque contenga virus. El código es seguro y propiedad de Navone Juan.
+> **Nota de Seguridad:** Estos avisos aparecen porque la aplicación es nueva y está firmada por un desarrollador independiente, no porque contenga virus. El código es seguro y propiedad de Navone Juan & Mapuchito Noticias.
 
 ---
 
